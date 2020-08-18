@@ -222,7 +222,7 @@
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
-
+<!---->
             <!-- Dubbo Dependencies -->
             <dependency>
                 <groupId>org.apache.dubbo</groupId>
