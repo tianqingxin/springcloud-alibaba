@@ -79,7 +79,7 @@
     </developers>
 
     <properties>
-        <!-- Project revision sss-->
+        <!-- Project revision -->
         <revision>2.2.2-SNAPSHOT</revision>
 
         <!-- Dependency Versions -->
